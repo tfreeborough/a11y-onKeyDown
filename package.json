@@ -1,6 +1,6 @@
 {
   "name": "a11y-onkeydown",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "a11y compatible react hook for onKeyDown",
   "main": "dist/index.es.js",
   "types": "dist/index.d.ts",
