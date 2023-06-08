@@ -1,8 +1,9 @@
 {
   "name": "a11y-onkeydown",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a11y compatible react hook for onKeyDown",
   "main": "dist/index.es.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
@@ -33,6 +34,7 @@
   "devDependencies": {
     "react": "^18.2.0",
     "typescript": "^5.1.3",
-    "vite": "^4.3.9"
+    "vite": "^4.3.9",
+    "vite-plugin-dts": "^2.3.0"
   }
 }
